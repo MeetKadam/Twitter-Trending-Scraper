@@ -27,3 +27,19 @@ This project scrapes trending topics from Twitter (X) and stores them in a Mongo
 2. MongoDB instance running locally or remotely (if local, ensure MongoDB is installed).
 3. A **ProxyMesh** account (for IP rotation).
 4. A Twitter (X) account.
+
+## Images
+
+### Before Scraping
+
+![Before](before-scraping.png)
+
+### After Scraping
+
+![After](after-scraping.png)
+
+### MongoDB View
+
+![MongoView](mongo-scraping.png)
+
+
